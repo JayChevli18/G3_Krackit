@@ -29,3 +29,25 @@ db_cap.sql: SQL file for the db_cap database.
 
 Contact:
 For any inquiries or assistance, feel free to contact the project maintainer at 202312097@daiict.ac.in
+
+Credentials:
+
+User Side:
+Email ID: demo_user@gmail.com
+Password: 123
+
+Admin Side:
+Email ID: jconeseven@gmail.com
+Password: jconeseven17
+
+Alumni Side:
+Email ID: abc1@gmail.com
+Password: 123
+
+
+
+
+
+
+
+Cre
